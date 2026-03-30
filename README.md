@@ -30,8 +30,8 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Pedro-AS">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tertiary&include_all_commits=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=6&theme=tertiary" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tertiary&include_all_commits=true" height="180" &theme=tertiary&v=1/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=6&theme=tertiary" height="180" &theme=tertiary&v=1/>
   </a>
 </p>
 
