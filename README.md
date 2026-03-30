@@ -28,13 +28,27 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/Joao-Pedro-AS">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tertiary" height="180" />
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=6&theme=tertiary" height="180" />
-  </a>
-</p>
+<div align="center">
+  <h1> Olá, eu sou o João Pedro! 👋 </h1>
 
+  <!-- Gráfico de Atividade (O que está funcionando 100%) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Pedro-AS&theme=github_dark&area=true&hide_border=true" width="100%" />
+
+  <br><br>
+
+  <!-- Suas Badges de Tecnologias -->
+  <h3> 💻 Stack Tecnológica </h3>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <br><br>
+
+  <!-- Nova Alternativa para Linguagens Mais Usadas -->
+  <h3> 📊 Linguagens mais utilizadas </h3>
+  <img src="https://metrics.lecoq.io/Joao-Pedro-AS?base=repositories&base.languages=true&base.languages.sections=most-used&theme=github-dark" width="450" />
+</div>
 
 
 ## 🔥 Streak de Contribuições
