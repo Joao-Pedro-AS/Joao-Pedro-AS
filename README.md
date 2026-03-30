@@ -32,7 +32,7 @@
   <h1> Olá, eu sou o João Pedro! 👋 </h1>
 
   <!-- Gráfico de Atividade (O que está funcionando 100%) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Pedro-AS&theme=github_dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=donut&theme=github_dark&hide_border=true" height="300" />
 
   <br><br>
 
