@@ -16,7 +16,7 @@
 + Interesse em IA, Full Stack e Desenvolvimento Web 
 ! Mentalidade de crescimento contínuo
 ```
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -24,13 +24,18 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,github,vscode" />
 </p>
 
----
+
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center"> <a href="https://github.com/Joao-Pedro-AS"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/> </a> </div>
+<div align="center">
+  <a href="https://github.com/Joao-Pedro-AS">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
 
----
+
 
 ## 🔥 Streak de Contribuições
 
@@ -38,14 +43,14 @@
   <img src="https://streak-stats.demolab.com?user=Joao-Pedro-AS&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 📌 Projetos em Destaque
 
 - 🚀 Em breve...
 - 💡 Trabalhando em novos projetos interessantes
 
----
+
 
 ## 🌐 Conecte-se comigo
 
@@ -67,7 +72,7 @@
   </a>
 </p>
 
----
+
 
 ## 🧩 Contador de Visitantes
 
@@ -75,14 +80,14 @@
   <img src="https://komarev.com/ghpvc/?username=Joao-Pedro-AS&color=blue" />
 </p>
 
----
 
 ## ⚡ Frase do dia
 
 > "A disciplina supera o talento quando o talento não é disciplinado."
 
----
 
 <p align="center">
   💙 Obrigado por visitar meu perfil! Volte sempre!
+  
+  ---
 </p>
