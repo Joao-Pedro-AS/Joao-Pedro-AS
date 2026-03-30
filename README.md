@@ -29,25 +29,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <h1> Olá, eu sou o João Pedro! 👋 </h1>
-
   <!-- Gráfico de Atividade (O que está funcionando 100%) -->
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=donut&theme=github_dark&hide_border=true" height="300" />
 
-  <br><br>
-
-  <!-- Suas Badges de Tecnologias -->
-  <h3> 💻 Stack Tecnológica </h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-  <br><br>
-
-  <!-- Nova Alternativa para Linguagens Mais Usadas -->
-  <h3> 📊 Linguagens mais utilizadas </h3>
-  <img src="https://metrics.lecoq.io/Joao-Pedro-AS?base=repositories&base.languages=true&base.languages.sections=most-used&theme=github-dark" width="450" />
 </div>
 
 
