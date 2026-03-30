@@ -28,12 +28,12 @@
 
 ## 📊 Estatísticas do GitHub
 
- <div align="center">
+<p align="center">
   <a href="https://github.com/Joao-Pedro-AS">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-AS&show_icons=true&theme=tertiary&include_all_commits=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-AS&layout=compact&langs_count=6&theme=tertiary" height="180" />
   </a>
-</div>
+</p>
 
 
 
